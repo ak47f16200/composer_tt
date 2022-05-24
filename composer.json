@@ -1,0 +1,21 @@
+{
+    "name": "luwc/des",
+    "description": "des",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "apache-2.0",
+    "authors": [
+        {
+            "name": "luweichen",
+            "email": "ak47f16200@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "luwc\\":"src/luwc"
+        }
+    }
+}
